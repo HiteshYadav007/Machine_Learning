@@ -1,2 +1,2 @@
-# Text_Classifier
-Text Classification Using Naive Bayes
+#Machine Learning
+1.Text Classification Using Naive Bayes
